@@ -2133,15 +2133,15 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.avatar {
+		.image.headshot {
 			border-radius: 100%;
 		}
 
-			.image.avatar:before {
+			.image.headshot:before {
 				display: none;
 			}
 
-			.image.avatar img {
+			.image.headshot img {
 				border-radius: 100%;
 				width: 100%;
 			}
